@@ -30,15 +30,21 @@ https://github.com/umitkacar/ImageLabeler_EarDetection.git
 7- Run, respectively.
 
 >>> cd /media/cutesafe/983f8bd1-436f-40a5-a881-e997598e5e6f/xOpenImage/
+
 >>> matlab
 
 8- Then, write & run "imageLabeler" in Command Window (matlab)
 
 9- Go "Label-> Load-> Session", Select "imageLabelingSession_v5.mat" (matlab)
 
-10 - Everything is READY, then you can use LABEL PIXELS TOOL, draw ear regions.
+10- Everything is READY, then you can use LABEL PIXELS TOOL, draw ear regions.
 
-11 - GOAL: Control ear regions - fix - draw new ear regions - fix
+11- GOAL: Control ear regions - fix - draw new ear regions - fix
+
+12- After labeling is finished:
+
+Label -> Save -> Session As -> imageLabelingSession_v6.mat -> SAVE  ****current version v5, so you must continue v6 ******
+Label -> Export Labels -> To File -> gTruth_v6 -> OK ****current version v5, so you must continue v6 ******
 
 Good luck with
 
