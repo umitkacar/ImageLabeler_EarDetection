@@ -45,6 +45,7 @@ https://github.com/umitkacar/ImageLabeler_EarDetection.git
 12- After labeling is finished:
 
 Label -> Save -> Session As -> imageLabelingSession_v6.mat -> SAVE  ****current version is v5, so you must continue v6 ******
+
 Label -> Export Labels -> To File -> gTruth_v6 -> OK ****current version is v5, so you must continue v6 ******
 
 Good luck with
