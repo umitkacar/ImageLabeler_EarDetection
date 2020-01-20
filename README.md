@@ -18,7 +18,8 @@ Use the following commands to do this,respectively:
 4- Cut & paste "ear_img" folder & "PixelLabelData_5" folder into MainPath
 The download link is below:
 
-https://www.dropbox.com/sh/0mrbw5a76i1hhe7/AAAgw-unZgJ3Y6M0TxS5gxDea?dl=0
+https://drive.google.com/open?id=1uDHCUqWZaodPFWcN8r9XiXhjxKdoWB4m
+
 
 5- Cut & paste "gTruth_v5.mat" & imageLabelingSession_v5.mat" into MainPath
 The download link is below:
