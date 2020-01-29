@@ -52,5 +52,5 @@ Label -> Export Labels -> To File -> gTruth_v6 -> OK
 
 ****current version is v5, so you must continue v6 ******
 
-Good luck with
+Good luck with the project!
 
